@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Used_cars.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="img_path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\webapp\images\</Value>
+    </Setting>
+    <Setting Name="db_string" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SERVER=localhost; Database=used_cars; UID=root; Password=dumbdaddy;allow user variables=true</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
